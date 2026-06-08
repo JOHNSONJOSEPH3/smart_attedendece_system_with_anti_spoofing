@@ -1,2 +1,1 @@
-# Realtime_Objectdetection
-real time object detection using caffemodel
+smart_attendence_system_using_ant-spoofing_technique
